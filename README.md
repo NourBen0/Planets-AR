@@ -27,4 +27,4 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/planets-ar.git
+   git clone https://github.com/NourBen0/Planets-AR.git
