@@ -22,7 +22,7 @@
 ## 📸 Screenshots
 
 
-<img src="Captures/capture1.png" width="250" />     <img src="Captures/capture2.png" width="223" />      <img src="Captures/capture3.png" width="226" />      <img src="Captures/capture4.png" width="226" />      <img src="Captures/capture5.png" width="226" />
+<img src="Captures/capture1.png" width="250" />     <img src="Captures/capture2.png" width="223" />      <img src="Captures/capture3.png" width="226" />      <img src="Captures/capture4.png" width="226" />      <img src="Captures/capture5.png" width="226" />     <img src="Captures/capture6.png" width="226" />
 
 
 
