@@ -14,8 +14,7 @@
 - **Unity** 2020
 - **ARFoundation** (Unity's AR abstraction layer)
 - **ARCore** (Google’s AR SDK for Android)
-  ## 🛠️ Languages & Tools
-
+  
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
