@@ -22,7 +22,7 @@
 ## 📸 Screenshots
 
 
-<img src="Captures/capture1.png" width="300" />  <img src="Captures/capture2.png" width="200" />  <img src="Captures/capture3.png" width="200" />
+<img src="Captures/capture1.png" width="250" />  <img src="Captures/capture2.png" width="200" />  <img src="Captures/capture3.png" width="200" />
 
 
 ## 📦 Installation
