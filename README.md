@@ -21,7 +21,8 @@
 
 ## 📸 Screenshots
 
-*Include a few images or GIFs here showing how the app looks in action (optional but highly recommended).*
+![Alt text](Captures/capture1.png)
+
 
 ## 📦 Installation
 
