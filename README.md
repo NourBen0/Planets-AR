@@ -21,7 +21,10 @@
 
 ## 📸 Screenshots
 
-![Alt text](Captures/capture1.png) ![Alt text](Captures/capture3.png)
+
+<img src="Captures/capture1.png" width="200" />
+<img src="Captures/capture2.png" width="200" />
+<img src="Captures/capture3.png" width="200" />
 
 
 ## 📦 Installation
