@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 
-![Alt text](Captures/capture1.png)
+![Alt text](Captures/capture1.png) ![Alt text](Captures/capture2.png)
 
 
 ## 📦 Installation
